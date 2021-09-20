@@ -49,6 +49,12 @@ Git es un sistema de control de versiones
 
 ![IMG-13](/images/IMG-13.png "git reset")
 
-**git commit -m "mensaje para identificar cambios"** : se utiliza para confirmar cambios
+**git commit -m "mensaje para identificar cambios"** : se utiliza para confirmar cambios, es una buena practica realizar estos comentarios en ingles
 
 ![IMG-14](/images/IMG-14.png "git commit")
+
+**git config core.autocrlf true** : soluciona un problema de CRLF, que es la interpretación de carácter
+
+Fotografía del posible error
+
+![IMG-15](/images/IMG-15.png "error CRLF")
