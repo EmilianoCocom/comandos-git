@@ -14,3 +14,7 @@ Git es un sistema de control de versiones
 ![IMG-3](/images/IMG-3.png "git help commit")
 
 ![IMG-4](/images/IMG-4.png "navegador")
+
+**git config --global user.name "Nombre de usuario"** : con este comando le decimos a git, quien somos
+
+![IMG-5](/images/IMG-5.png "config user name")
